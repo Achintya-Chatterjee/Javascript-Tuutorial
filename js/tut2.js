@@ -1,0 +1,10 @@
+console.time('your code took');
+console.log('hello world');
+console.log(34*7);
+console.log([34,1,4,5]);
+console.table({bumbe: "this",marks:34});
+console.warn('is a warning');
+// console.clear();
+console.timeEnd('your code took');
+// console.assert(age>189,'Age is not possible');
+console.error('Thois is an Error');
